@@ -1,0 +1,79 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "question": "L'anno dell'Unità di Italia",
+      "right_answer": "1861",
+      "wrong_answer1": "1900",
+      "wrong_answer2": "1848"
+    },
+    {
+      "id": 2,
+      "question": "L'anno della Rivoluzione Francese", 
+      "right_answer": "1789", 
+      "wrong_answer1": "1848", 
+      "wrong_answer2": "1830"
+    },
+    {
+      "id": 3,
+      "question": "Chi fu sconfitto nella battaglia di Waterloo?", 
+      "right_answer": "Napoleone", 
+      "wrong_answer1": "von Bismarck", 
+      "wrong_answer2": "Il Duca di Wellington"
+    },
+     {
+      "id": 4,
+      "question": "Come si chiamò il movimento fondato da Giuseppe Mazzini", 
+      "right_answer": "La Giovine Italia", 
+      "wrong_answer1": "Forza Italia", 
+      "wrong_answer2": "Italia Viva"
+    },
+    {
+      "id": 5,
+      "question": "Come si chiamò il movimento fondato da Giuseppe Mazzini", 
+      "right_answer": "La Giovine Italia", 
+      "wrong_answer1": "Forza Italia", 
+      "wrong_answer2": "Italia Viva"
+    },
+      {
+      "id": 6,
+      "question": "Come si chiamò la spedizione guidata da Giuseppe Garibaldi?", 
+      "right_answer": "La spedizione dei mille", 
+      "wrong_answer1": "La spedizione dei 100", 
+      "wrong_answer2": "La spedizione dei 500"
+    },
+       {
+      "id": 7,
+      "question": "Chi fu il primo presidente degli Stati Uniti d'America?", 
+      "right_answer": "George Washington", 
+      "wrong_answer1": "Thomas Jefferson", 
+      "wrong_answer2": "Abraham Lincoln"
+    },
+       {
+      "id": 8,
+      "question": "In che anno entrò in vigore la Costituzione Italiana?", 
+      "right_answer": "1948", 
+      "wrong_answer1": "1946", 
+      "wrong_answer2": "1950"
+    },
+    {
+      "id": 9,
+      "question": "Chi fu il primo Presidente del Consiglio dei Ministri del Regno di Italia?", 
+      "right_answer": "Cavour", 
+      "wrong_answer1": "Giolitti", 
+      "wrong_answer2": "Crispi"
+    },
+    {
+      "id": 10,
+      "question": "In che anno Roma divenne capitale del Regno di Italia?", 
+      "right_answer": "1870", 
+      "wrong_answer1": "1900", 
+      "wrong_answer2": "1848"
+    }
+  ],
+ }
+ 
+
+
+
+
